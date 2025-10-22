@@ -54,9 +54,12 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 ## Reference image:
 
 <img width="390" height="217" alt="Screenshot 2025-10-22 074514" src="https://github.com/user-attachments/assets/668eceba-e17c-4642-b1bb-d3cce69eb6b4" />
+
 ## Refine prompt:
 modify the image of by girl sitting in the rock and some birds flying in the sky over rocks and vivid purple pink sky
+
 ## Refined image:
-![scene](https://github.com/user-attachments/assets/c98dec07-36e5-4a98-b484-87cad43b93d0)
+
+![scene](https://github.com/user-attachments/assets/ac641d0c-a5cd-489d-9724-3e99fb244e98)
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
